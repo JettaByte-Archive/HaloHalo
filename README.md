@@ -1,2 +1,2 @@
-# HaloHalo
+### 개발자 버전 0.0.1 업데이트 진행중
 The New OS
